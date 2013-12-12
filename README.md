@@ -1,1 +1,1 @@
-d3 Assignment - New York Times Best Seller's List
+d3 Assignment - New York Times Best Seller's List and how many weeks it's been on the charts
